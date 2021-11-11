@@ -1,3 +1,4 @@
+package CoreJava.LabBook.Lab1;
 import java.util.Scanner;
 public class TrafficLight {
 
